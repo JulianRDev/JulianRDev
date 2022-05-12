@@ -1,7 +1,6 @@
-### Hi there 👋
+<img width="1659" alt="Screen Shot 2022-05-12 at 9 32 13 AM" src="https://user-images.githubusercontent.com/102041426/168087627-27150d35-534f-4a30-90dd-7aba2af97673.png">
 
 
-<img width="1663" alt="Screen Shot 2022-05-12 at 9 32 13 AM" src="https://user-images.githubusercontent.com/102041426/168087188-751597e2-749f-417b-9926-ffeed3350d30.png">
 
 <!--
 **JulianRDev/JulianRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
