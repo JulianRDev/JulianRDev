@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<section>
+  <h1>Projects</h1>
+  <div>
+    <h2>Tic Tac Toe</h2>
+    
+<img width="1792" alt="Screen Shot 2022-05-12 at 9 48 42 AM" src="https://user-images.githubusercontent.com/102041426/168090448-61ed9dc8-9329-4fe8-9a13-b07206b49a05.png">
+
+  </div>
+</section>
