@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Julian Rosa</h1>
 👨‍💻 All of my projects are available at https://julianrosaportfolio.netlify.app/
 
+
 📫 How to reach me: JulianRosaDev@gmail.com
 
 ⚡ Fun fact: I love sports 🏀 🏈 ⚾️ and will be a father by the end of the year!
