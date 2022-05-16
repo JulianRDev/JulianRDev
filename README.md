@@ -27,8 +27,7 @@ Here are some ideas to get you started:
   </div>
 </section>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev&theme=react&show_icons=true)
 
 
 
