@@ -27,11 +27,9 @@ Here are some ideas to get you started:
   </div>
 </section>
 
-<section>
-  <h2> Github Statistics </h2>
+
+<h2>Github Stats</h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev)](https://github.com/anuraghazra/github-readme-stats)
-  
-</section>
 
 
 
