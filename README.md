@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Julian Rosa</h1>
-👨‍💻 All of my projects are available at [https://julianrosaportfolio.netlify.app/]
+👨‍💻 All of my projects are available at https://julianrosaportfolio.netlify.app/
 
 📫 How to reach me: JulianRosaDev@gmail.com
 
