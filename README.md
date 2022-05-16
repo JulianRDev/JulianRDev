@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <section>
   <h2 align="center">Projects</h2>
-  <div>
     
     <div align="left" width="50%">
     <h2 align="center">Tic Tac Toe</h2>
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
       <h2>Slot Machine</h2>
     </div>
 
-  </div>
 </section>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev&theme=react&show_icons=true)
