@@ -4,9 +4,7 @@
 
 <!--
 **JulianRDev/JulianRDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<section>
+  <h1>Projects</h1>
+  <div>
+    <h2>Tic Tac Toe</h2>
 
-  <h2 align="center">Projects</h2>
-    
-    <div>
-    <h2 align="center">Tic Tac Toe</h2>
-    
-<img height="400px" width="50%" alt="Screen Shot 2022-05-12 at 9 48 42 AM" src="https://user-images.githubusercontent.com/102041426/168090448-61ed9dc8-9329-4fe8-9a13-b07206b49a05.png">
+<img width="1792" alt="Screen Shot 2022-05-12 at 9 48 42 AM" src="https://user-images.githubusercontent.com/102041426/168090448-61ed9dc8-9329-4fe8-9a13-b07206b49a05.png">
+
   </div>
- 
+</section>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev&theme=react&show_icons=true)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
