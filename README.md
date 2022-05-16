@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <h2 align="center">Projects</h2>
   <div>
     
-    <div slign="left" width="50%">
+    <div align="left" width="50%">
     <h2 align="center">Tic Tac Toe</h2>
     
 <img height="400px" width="50%" alt="Screen Shot 2022-05-12 at 9 48 42 AM" src="https://user-images.githubusercontent.com/102041426/168090448-61ed9dc8-9329-4fe8-9a13-b07206b49a05.png">
