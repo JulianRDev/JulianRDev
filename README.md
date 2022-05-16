@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <section>
-  <h1>Projects</h1>
+  <h1 align="center">Projects</h1>
   <div>
     <h2 align="center">Tic Tac Toe</h2>
 
