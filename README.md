@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   </div>
   
-  <h2>Slot Machine</h2>
+  <h2 align="center" >Slot Machine</h2>
 </section>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRDev&theme=react&show_icons=true)
