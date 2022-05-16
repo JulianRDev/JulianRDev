@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 
   <h2 align="center" >Slot Machine</h2>
-  <img height="300px"width="100%" alt="slotmachine" src="https://user-images.githubusercontent.com/102041426/168662655-f2fef785-6a81-4aac-9f66-0bc60a01797c.png">
+  <img height="500px"width="100%" alt="slotmachine" src="https://user-images.githubusercontent.com/102041426/168662655-f2fef785-6a81-4aac-9f66-0bc60a01797c.png">
   
 </section>
 
