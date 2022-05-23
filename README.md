@@ -16,7 +16,7 @@ About Me: I’ve always had a passion for building things from the ground up. My
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/julianrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julianrdev" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/julianrosa](https://www.linkedin.com/in/julian-rosa-162a32234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianrosa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julian-rosa-162a32234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianrosa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
