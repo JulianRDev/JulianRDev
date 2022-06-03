@@ -56,7 +56,10 @@ Here are some ideas to get you started:
 
   
   <h2 align="center"> Personal profile for Journal Entries  </h2>
- <img width="1328" alt="journalentrypage" src="https://user-images.githubusercontent.com/102041426/171779778-2453c19c-0b30-462f-ba0d-d539a7c7a470.png">
+ <img height="500" width="100%" alt="journalentrypage" src="https://user-images.githubusercontent.com/102041426/171779778-2453c19c-0b30-462f-ba0d-d539a7c7a470.png">
+
+  <h2 align="center" >Post Your Cats</h2>
+ <img height="500" width="100%" alt="postyourcat" src="https://user-images.githubusercontent.com/102041426/171781574-7d7bb850-655d-44c0-a64e-7680627a069a.png">
 
 
   <h2 align="center"></h2>
