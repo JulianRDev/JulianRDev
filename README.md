@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   </div>
   
 
-  <h2 align="center" >Create a profile and store your workouts by Section</h2>
+  <h2 align="center" >Create a profile and store your workouts by section</h2>
   <img height="500" width="100%" alt="workoutsprofile" src="https://user-images.githubusercontent.com/102041426/171779602-0e7e9880-a5c1-46fb-b890-0f0bf3ae1668.png">
 
   
