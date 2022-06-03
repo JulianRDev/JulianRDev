@@ -51,8 +51,9 @@ Here are some ideas to get you started:
   </div>
   
 
-  <h2 align="center" >Slot Machine</h2>
-  <img height="500px"width="100%" alt="slotmachine" src="https://user-images.githubusercontent.com/102041426/168662655-f2fef785-6a81-4aac-9f66-0bc60a01797c.png">
+  <h2 align="center" >Create a profile and store your workouts by Section</h2>
+  <img height="500" width="100%" alt="workoutsprofile" src="https://user-images.githubusercontent.com/102041426/171779602-0e7e9880-a5c1-46fb-b890-0f0bf3ae1668.png">
+
   
   <h2 align="center"> Horoscope </h2>
   <img  height="500px" width="100%" alt="horoscope" src="https://user-images.githubusercontent.com/102041426/168666749-f191637c-46c3-4b6d-8583-d49e4c9be4d8.png">
